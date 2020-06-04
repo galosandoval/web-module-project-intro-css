@@ -1,0 +1,179 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    /*border: 1px solid grey;*/
+    font-family: "Roboto Mono", monospace;
+}
+
+body {
+    font-size: 62.5%;
+}
+
+nav {
+    text-align: center;
+}
+
+.links-top a {
+    display: inline-block;
+}
+
+.links-top .red {
+    background-color: #FF764E;
+    text-decoration: none;
+    margin-right: 18%;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    color: whitesmoke;
+    width: 13%;
+    padding: 1%;
+}
+
+.links-top .blue {
+    background-color: #5ED3EB;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    color: whitesmoke;
+    width: 16%;
+    padding: 1%;
+}
+
+.links-top .yellow {
+    background-color: #FFCD69;
+    text-decoration: none;
+    margin-left: 18%;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    color: whitesmoke;
+    width: 12%;
+    padding: 1%;
+}
+
+.top-body {
+    padding-bottom: 3%;
+}
+
+.circle-pic {
+    border-radius: 50%;
+    height: 20rem;
+    float: left;
+    margin: 0% 0 0 4%;
+    /*display: inline-block;*/
+}
+
+section .p1 {
+    padding: 1%;
+}
+
+section .p2 {
+    align-content: center;
+    padding-top: 4%;
+    width: 70%;
+    margin-left: 13%;
+}
+
+.circle-text {
+    /*display: inline-block;*/
+    width: 55%;
+    text-align: center;
+    font-size: 1.4rem;
+    margin: 8% 0 6% 36%;
+}
+
+.circle-text h1 {
+    font-family: "Chelsea Market", cursive;
+    font-size: 3rem;
+}
+
+.middle-text {
+    background-color: #DDB9A3;
+    color: whitesmoke;
+    font-size: 1.1rem;
+    text-align: center;
+    height: 28%;
+    width: 91%;
+    margin: 1.7% 0 1.7% 4.3%;
+    padding: .5%;
+}
+
+.middle-text p {
+    padding: .5%;
+}
+
+.small-text-top img {
+    height: 10rem;
+    margin-left: 41.5%;
+}
+
+.small-text p {
+    width: 25%;
+    margin-left: 35.3%;
+    font-size: .8rem;
+    height: 41%;
+    text-align: center;
+}
+
+.small-text-bottom img {
+    height: 10rem;
+    margin-left: 41.5%;
+}
+
+.cropped {
+    height: 250px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.cropped img {
+    margin: 0 0 -20 0
+}
+
+.links-bottom {
+    background-color: #F9E7DC;
+    padding: 4%;
+    
+}
+
+.links-bottom {
+    width: 100%;
+}
+.links-bottom a {
+    display: inline-block
+}
+.links-bottom .red2 {
+    background-color: #FF764E;
+    text-decoration: none;
+    margin-right: 17%;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    color: whitesmoke;
+    width: 14%;
+    padding: 1%;
+}
+
+.links-bottom .blue2 {
+    background-color: #5ED3EB;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    color: whitesmoke;
+    width: 16%;
+    padding: 1%;
+}
+
+.links-bottom .yellow2 {
+    background-color: #FFCD69;
+    text-decoration: none;
+    margin-left: 18%;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    color: whitesmoke;
+    width: 13%;
+    padding: 1%;
+}
+
+.middle-text b {
+    font-weight: bold;
+}
